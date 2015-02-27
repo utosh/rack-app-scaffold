@@ -19,4 +19,4 @@ end
 use ActiveRecord::ConnectionAdapters::ConnectionManagement
 use ActiveRecord::QueryCache
 
-# run Rack::Cascade.new([])
+run Rack::Cascade.new([])
